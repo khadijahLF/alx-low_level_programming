@@ -3,8 +3,9 @@
 /**
  * main - Prints all possible combinations of single-digit numbers.
  *
-i * Return: Always 0.
+ * Return: Always 0.
  */
+
 int main(void)
 {
 	int num;
